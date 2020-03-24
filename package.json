@@ -1,0 +1,33 @@
+{
+  "name": "videowiki",
+  "version": "1.0.0",
+  "description": "Lets make a simple blog app with only the home page functional.",
+  "main": "server.js",
+  "dependencies": {
+    "cloudinary": "^1.18.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "json-web-token": "^3.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.20.8",
+    "mongoose": "^5.8.9",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "sleep": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadilraza339/Videowiki.git"
+  },
+  "author": "aadil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aadilraza339/Videowiki/issues"
+  },
+  "homepage": "https://github.com/aadilraza339/Videowiki#readme"
+}
